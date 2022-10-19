@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func mainii() {
 	//start
 	a := [10]int{6, 9, 4, 2, 1, 3, 7, 0, 5, 10}
 	fmt.Println("unsorted:\n", a)
